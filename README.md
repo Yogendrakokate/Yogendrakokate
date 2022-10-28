@@ -1,5 +1,4 @@
-
-[![MasterHead](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)](https://Yogendrakokate.io)
+-[![MasterHead](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)](https://Yogendrakokate.io)
 <h1 align="center">Hi 👋, I'm Yogendra Kokate</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
                                                                                                           
