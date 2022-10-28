@@ -3,7 +3,7 @@ https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbll
 <h1 align="center">Hi 👋, I'm Yogendra Kokate</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
                                                                                                           
-      (img align="right" alt="Coding" width="400" src=""https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif")
+      <img align="right" alt="Coding" width="400" src=""https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogendrakokate&label=Profile%20views&color=0e75b6&style=flat" alt="yogendrakokate" /> </p>
 
