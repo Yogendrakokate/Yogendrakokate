@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yogendra Kokate</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
                                                                                                           
-     
+     <img src="https://komarev.com/ghpvc/?username=yogendrakokate&label=Profile%20views&color=0e75b6&style=flat" alt="yogendrakokate" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogendrakokate&label=Profile%20views&color=0e75b6&style=flat" alt="yogendrakokate" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **React.js Javascript**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **ykokate953@gmail.com**
 
