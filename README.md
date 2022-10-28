@@ -1,9 +1,6 @@
 -[![MasterHead](https://www.sidn.es/images/Fullstack2.jpg)](https://Yogendrakokate.io)
 <h1 align="center">Hi 👋, I'm Yogendra Kokate</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-                                                                                                          
-     <img src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazhEcDdhR3prb05FclpwRTdxNVhkUmNFOUoyd3xBQ3Jtc0tsY3ZQYkh0MkNJc011dU1lVGxxMXdiZTQ4X2hxcENzLVZPbmtBSTNSN05PVUpwN0xkSktCaXZvZm9IS0x2YlRhUFlPSW1UOUZOb3l6LXZOeGZPSWVBeHdFMmpwRGJzaHVpblUwSExRMEpVQmt4MDVMaw&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE" alt="yogendrakokate" >
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogendrakokate&label=Profile%20views&color=0e75b6&style=flat" alt="yogendrakokate" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
