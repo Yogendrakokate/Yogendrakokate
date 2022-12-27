@@ -1,6 +1,6 @@
-<p align="center">
+<h1 text-align="center">
  # Hi <span class="wave">👋</span> I’m,Yogendra Kokate
-</p>
+</h1>
 
 
 ![alt text](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
