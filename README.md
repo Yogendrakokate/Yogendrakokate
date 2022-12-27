@@ -1,4 +1,7 @@
-# Hi <span class="wave">👋</span> I’m,Yogendra Kokate
+<p align="center">
+ # Hi <span class="wave">👋</span> I’m,Yogendra Kokate
+</p>
+
 
 ![alt text](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 # 💫 About Me:
