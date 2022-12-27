@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img width="200" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Material Bread logo">
+    <img width="80%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Material Bread logo">
 </p>
 
 
