@@ -40,9 +40,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yogendrakokate&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogendrakokate&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h1 align="center">
+
 ✍️ Random Dev Quote
-</h1> 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
