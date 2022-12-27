@@ -7,11 +7,11 @@
 </p>
 
 
-<div>
-<h1 align="center">
+<div align="center">
+<h1>
   💫 About Me:
 </h1>
-  <p align="center">🌱 I’m currently learning Redux, NodeJS, MonogoDB, Express JS<br><br>💬 Ask me about Javascript, Html,CSS, Chakra, React, Data Structure and algorithm<br><br>📫 How to reach me ykokate953@gmail.com</p>
+  <p>🌱 I’m currently learning Redux, NodeJS, MonogoDB, Express JS<br><br>💬 Ask me about Javascript, Html,CSS, Chakra, React, Data Structure and algorithm<br><br>📫 How to reach me ykokate953@gmail.com</p>
   </div>
 
 
@@ -21,9 +21,9 @@
 <h1 align="center">
 🌐 Socials:
 </h1>
-<div align="center" >
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yogendra-kokate-2a06661b4/) 
-</div>
+
 
 
 <h1 align="center">
