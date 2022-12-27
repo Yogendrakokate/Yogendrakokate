@@ -2,7 +2,10 @@
   Hi <span class="wave">👋</span> I’m,Yogendra Kokate
 </h1>
 
-![alt text](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+    <img width="200" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Material Bread logo">
+</p>
+
 
 
 # 💫 About Me:
