@@ -1,5 +1,5 @@
-<h1 text-align="center">
- # Hi <span class="wave">👋</span> I’m,Yogendra Kokate
+<h1 align="center">
+  Hi <span class="wave">👋</span> I’m,Yogendra Kokate
 </h1>
 
 
