@@ -2,8 +2,10 @@
   Hi <span class="wave">👋</span> I’m,Yogendra Kokate
 </h1>
 
-
+<div align="center">
 ![alt text](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+</div>
+
 # 💫 About Me:
 🌱 I’m currently learning Redux, NodeJS, MonogoDB, Express JS<br><br>💬 Ask me about Javascript, Html,CSS, Chakra, React, Data Structure and algorithm<br><br>📫 How to reach me ykokate953@gmail.com
 
