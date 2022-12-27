@@ -9,10 +9,11 @@
 
 <h1 align="center">
   💫 About Me:
+  🌱 I’m currently learning Redux, NodeJS, MonogoDB, Express JS<br><br>💬 Ask me about Javascript, Html,CSS, Chakra, React, Data Structure and algorithm<br><br>📫 How to reach me ykokate953@gmail.com
 </h1>
 
-# 
-🌱 I’m currently learning Redux, NodeJS, MonogoDB, Express JS<br><br>💬 Ask me about Javascript, Html,CSS, Chakra, React, Data Structure and algorithm<br><br>📫 How to reach me ykokate953@gmail.com
+
+
 
 
 ## 🌐 Socials:
