@@ -2,6 +2,9 @@
   Hi <span class="wave">👋</span> I’m,Yogendra Kokate
 </h1>
 
+<h1 align="center">
+- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
+</h1>
 <p align="center">
     <img width="60%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Material Bread logo">
 </p>
