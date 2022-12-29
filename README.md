@@ -14,7 +14,8 @@
 <h1>
   💫 About Me:
 </h1>
-  <h4>🌱 I’m currently learning Redux, NodeJS, MonogoDB, Express JS<br><br>💬 Ask me about Javascript, Html,CSS, Chakra, React, Data Structure and algorithm<br><br>📫 How to reach me ykokate953@gmail.com</h4>
+  <h4>🌱 I’m currently learning MERN Stack <br><br>💬 Ask me about Javascript, Html,CSS, Chakra, React, Data Structure and algorithm<br><br>📫 How to reach me ykokate953@gmail.com</h4><br><br>
+  Portfolio [https://yogendrakokate.github.io/]
   </div>
 
 
