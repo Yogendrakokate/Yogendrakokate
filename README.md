@@ -6,7 +6,7 @@
 - I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean,<br> elegant and efficient code.
 </h3>
 <p align="center">
-    <img width="60%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Material Bread logo">
+    <img width="60%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Material Bread logo">
 </p>
 
 
